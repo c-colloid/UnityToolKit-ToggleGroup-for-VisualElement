@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+    <MyUILibrary.ToggleGroup color="#E23F3F00" style="margin-left: 1px; margin-right: 1px; margin-top: 1px; margin-bottom: 1px; padding-left: 2px; padding-right: 2px; padding-top: 2px; padding-bottom: 2px; height: 120px;">
+        <ui:VisualElement>
+            <ui:Label text="Label" style="-unity-text-align: lower-center; height: 100%;" />
+        </ui:VisualElement>
+        <ui:VisualElement>
+            <ui:Label text="Label" style="height: 100%; -unity-text-align: lower-center;" />
+        </ui:VisualElement>
+        <ui:VisualElement>
+            <ui:Label text="Label" style="-unity-text-align: lower-center; height: 100%;" />
+        </ui:VisualElement>
+    </MyUILibrary.ToggleGroup>
+</ui:UXML>
